@@ -17,7 +17,12 @@ square from the starting one.
 ##### Sample output
 
 `3`
+
 `(3, 1)`
+
 `(5, 2)`
+
 `(7, 3)`
+
 `(6, 1)`
+
